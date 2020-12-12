@@ -29,3 +29,10 @@ ping 10.1.0.11
 ```
 
 Now you can try to ssh into the second host. Maybe it works on your machine :)
+
+
+Used ressources
+===
+
+* https://github.com/songgao/water
+* https://www.darkcoding.net/software/raw-sockets-in-go-link-layer/
